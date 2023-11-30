@@ -13,7 +13,7 @@ My email: yangchanghee2251@gmail.com & qazw5741@naver.com
 
 <br>
 
-### Experiment  
+### Explain  
 I collaborated with the Naver Cloud Video team, and our work was accepted at the main conference of ICCV 2023. Additionally, I participated in an AI grand challenge, where five research labs at Sogang University came together, and we were awarded the KETI director's prize. Furthermore, through collaboration with students from Pukyong National University, our work got accepted at WACV 2024 and ICCV workshop 2023. 
 Furthermore, I served as a Teacher's Assistant for image processing practice at LG Display.
 
@@ -85,3 +85,33 @@ I submitted a paper to CVPR 2024 and am waiting for the review.
 ### Patent
 S-J. Kang, C. H. Yang, Complex Pose Extraction Device, KR-Application No. : 10-2023-0111074  
 S-J. Kang, C. H. Yang, C. H. Kang, Image generation device using self-generated skeleton guidance-maps, KR-Application No: 10-2023-0167160
+
+### Experience
+
+
+
+
+
+
+<p align="middle">
+<img src="images/SOGANG_img.png" width="100px" height="100px">
+</p>
+<p align="center">
+  <b>M.S.</b>,Electronic Engineering, <b>Sogang University</b>, Seoul, Korea <br> (Mar. 2022 - Feb. 2024)
+</p>
+
+
+
+<p align="middle">
+<img src="images/army_logo.jpg" width="250px" height="100px">
+</p>
+<p align="center">
+  <b>Republic of Korea Army</b>, Pocheon, Korea <br> (May. 2017 - Jan. 2019)
+</p>
+
+<p align="middle">
+<img src="images/DKU_img.png" width="100px" height="100px">
+</p>
+<p align="center">
+  <b>B.S.</b>, Department of Electronic and Electrical Engineering, <b>Dankook University (DKU)</b>, Jukjeon, Korea <br> (Mar. 2015 - Feb. 2022)
+</p>
