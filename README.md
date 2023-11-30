@@ -81,6 +81,16 @@ Taehoon Kim*, ChanHee Kang*, JaeHyuk Park*, Daun Jeong*, <b>ChangHee Yang</b>*, 
 ### Submitted
 I submitted a paper to CVPR 2024 as the first author and am waiting for the review.
 
+### Project
+* Korean Agency for Technology and Standards, “Development of 3D Dynamic Human Surface Shape Measurement protocol,” (Jun. 2023 – Present)  
+
+* Ministry of Public Administration and Security, “A Research on the Development and Demonstration of Smart Road Lighting Platform Technology,” (Mar. 2022 – Jun. 2023)  
+
+* Gachon University, “Development of facial expression change recognition detection method algorithm using neural network-based mixing and mediation strategy,” (Oct. 2020 – Feb. 2022)  
+
+* Ministry of Science and ICT, “AI-based multi-channel cybercrime information collection and profiling system,” (Jun. 2020 – Feb. 2022)  
+
+
 
 ### Patent
 S-J. Kang, C. H. Yang, Complex Pose Extraction Device, KR-Application No. : 10-2023-0111074  
