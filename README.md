@@ -13,7 +13,7 @@ My email: yangchanghee2251@gmail.com & qazw5741@naver.com
 
 <br>
 
-### Explain  
+### Who I am?  
 I collaborated with the Naver Cloud Video team, and our work was accepted at the main conference of ICCV 2023. Additionally, I participated in an AI grand challenge, where five research labs at Sogang University came together, and we were awarded the KETI director's prize. Furthermore, through collaboration with students from Pukyong National University, our work got accepted at WACV 2024 and ICCV workshop 2023. 
 Furthermore, I served as a Teacher's Assistant for image processing practice at LG Display.
 
@@ -91,7 +91,19 @@ S-J. Kang, C. H. Yang, C. H. Kang, Image generation device using self-generated 
 
 
 
+<p align="middle">
+<img src="images/naver_cloud.png" width="200px" height="100px">
+</p>
+<p align="center">
+  <b>Human Pose Estimation</b>, Co-Worker, <b>Naver Cloud</b>, bundang, Korea <br> (Jun. 2022 - Jun. 2023)
+</p>
 
+<p align="middle">
+<img src="images/lg_d_logo.png" width="300px" height="100px">
+</p>
+<p align="center">
+  <b>Image Processing Practice</b>, Teacher`s Assistant, <b>LG Display</b>, Seoul, Korea <br> (Aug. 2022, Aug. 2023)
+</p>
 
 <p align="middle">
 <img src="images/SOGANG_img.png" width="100px" height="100px">
