@@ -102,7 +102,7 @@ S-J. Kang, C. H. Yang, C. H. Kang, Image generation device using self-generated 
 
 
 <p align="middle">
-<img src="images/naver_cloud.png" width="100px" height="50px">
+<img src="images/naver_cloud.png" width="100px" height="70px">
 </p>
 <p align="center">
   <b>Human Pose Estimation</b>, Co-Worker, <b>Naver Cloud</b>, bundang, Korea <br> (Jun. 2022 - Jun. 2023)
