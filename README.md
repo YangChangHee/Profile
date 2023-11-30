@@ -5,9 +5,7 @@
 ### **Researcher**
 I am a Computer Vision Researcher at sogang university, Seoul. I will receive a Master`s degree at sogang university Vision & Display Systems Lab(VDSLab).  
 I was advised by Prof. Suk-Ju Kang.  
-My email: yangchanghee2251@gmail.com  
-
-<br>
+My email: yangchanghee2251@gmail.com & qazw5741@naver.com  
 
 [Google Scholar](https://scholar.google.com/citations?hl=ko&user=KooR_OcAAAAJ) \
 [Linkedin](https://www.linkedin.com/in/changheeyang-056083207/) \
@@ -15,7 +13,9 @@ My email: yangchanghee2251@gmail.com
 
 <br>
 
-### Experiment
+### Experiment  
+I collaborated with the Naver Cloud Video team, and our work was accepted at the main conference of ICCV 2023. Additionally, I participated in an AI grand challenge, where five research labs at Sogang University came together, and we were awarded the KETI director's prize. Furthermore, through collaboration with students from Pukyong National University, our work got accepted at WACV 2024 and ICCV workshop 2023. 
+Furthermore, I served as a Teacher's Assistant for image processing practice at LG Display.
 
 ### Publications (Accepts)
 
