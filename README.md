@@ -14,10 +14,10 @@ My email: yangchanghee2251@gmail.com & qazw5741@naver.com
 <br>
 
 ### Who I am?  
-I collaborated with the Naver Cloud Video team, and our work was accepted at the main conference of ICCV 2023. Additionally, I participated in an AI grand challenge, where five research labs at Sogang University came together, and we were awarded the KETI director's prize. Furthermore, through collaboration with students from Pukyong National University, our work got accepted at WACV 2024 and ICCV workshop 2023. 
+During my M. S degree, I collaborated with the Naver Cloud Video team, and our work was accepted at the main conference of ICCV 2023. Additionally, I participated in an AI grand challenge, where five research labs at Sogang University came together, and we were awarded the KETI director's prize. Furthermore, through collaboration with assistant professor from Pusan National Univerisy, our work got accepted at WACV 2024 and ICCV workshop 2023. 
 Furthermore, I served as a Teacher's Assistant for image processing practice at LG Display.
 
-### Publications (Accepts)
+### Publications (Accepted)
 
 <!--SEFD-->
 <p>
@@ -48,7 +48,7 @@ Taehoon Kim*, ChanHee Kang*, JaeHyuk Park*, Daun Jeong*, <b>ChangHee Yang</b>*, 
 <br>
 <b>WACV 2024</b>
 <br>
-<b>Co-Work with Pukyung National University</b>
+<b>Co-Work with Pusan National University</b>
 <br>
 [<a href="https://cveu.github.io/2023/papers/32.pdf">ICCV Workshop</a>][<a href="https://github.com/CSJasper/HMTV">Code</a>] [<a href="https://yangchanghee.github.io/HMTV_docs/">PROJECT PAGE</a>]
 </div>
@@ -67,7 +67,7 @@ Taehoon Kim*, ChanHee Kang*, JaeHyuk Park*, Daun Jeong*, <b>ChangHee Yang</b>*, 
 <br>
 <b>ICCV Workshop 2023 (CVEU)</b>
 <br>
-<b>Co-Work with Pukyung National University</b>
+<b>Co-Work with Pusan National University</b>
 <br>
 [<a href="https://cveu.github.io/2023/papers/32.pdf">ICCV Workshop</a>]
 <br>
@@ -78,8 +78,8 @@ Taehoon Kim*, ChanHee Kang*, JaeHyuk Park*, Daun Jeong*, <b>ChangHee Yang</b>*, 
 <br>
 <br>
 
-### Submit
-I submitted a paper to CVPR 2024 and am waiting for the review.
+### Submitted
+I submitted a paper to CVPR 2024 as the first author and am waiting for the review.
 
 
 ### Patent
@@ -92,14 +92,14 @@ S-J. Kang, C. H. Yang, C. H. Kang, Image generation device using self-generated 
 
 
 <p align="middle">
-<img src="images/naver_cloud.png" width="200px" height="100px">
+<img src="images/naver_cloud.png" width="100px" height="50px">
 </p>
 <p align="center">
   <b>Human Pose Estimation</b>, Co-Worker, <b>Naver Cloud</b>, bundang, Korea <br> (Jun. 2022 - Jun. 2023)
 </p>
 
 <p align="middle">
-<img src="images/lg_d_logo.png" width="300px" height="100px">
+<img src="images/lg_d_logo.png" width="100px" height="30px">
 </p>
 <p align="center">
   <b>Image Processing Practice</b>, Teacher`s Assistant, <b>LG Display</b>, Seoul, Korea <br> (Aug. 2022, Aug. 2023)
@@ -115,7 +115,7 @@ S-J. Kang, C. H. Yang, C. H. Kang, Image generation device using self-generated 
 
 
 <p align="middle">
-<img src="images/army_logo.jpg" width="250px" height="100px">
+<img src="images/army_logo.jpg" width="100px" height="50px">
 </p>
 <p align="center">
   <b>Republic of Korea Army</b>, Pocheon, Korea <br> (May. 2017 - Jan. 2019)
