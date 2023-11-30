@@ -4,7 +4,7 @@
 
 ### **Researcher**
 I am a Computer Vision Researcher at sogang university, Seoul. I will receive a Master`s degree at sogang university Vision & Display Systems Lab(VDSLab).  
-I was advised by Prof. Suk-Ju Kang.  
+I was advised by Prof. Suk-Ju Kang, (TCSVT editor).  
 My email: yangchanghee2251@gmail.com & qazw5741@naver.com  
 
 [Google Scholar](https://scholar.google.com/citations?hl=ko&user=KooR_OcAAAAJ) \
