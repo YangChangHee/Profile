@@ -19,6 +19,25 @@ Furthermore, I served as a Teacher's Assistant for image processing practice at 
 
 ### Publications (Accepted)
 
+<!--Person-In-Place-->
+<p>
+<img src="images/" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing </font></b>
+<br>
+<b>ChangHee Yang</b>*, Chan Hee Kang*, Kyeongbo Kong*, Hanni Oh and Suk-Ju Kang
+<br>
+<b>CVPR 2024</b>
+<br>
+<b>Co-Work with Pusan National University</b>
+<br>
+[<a href="">CVPR</a>] [<a href="https://github.com/YangChangHee/CVPR2024_Person-In-Place_RELEASE">CODE</a>] [<a href="https://anonymous.4open.science/w/Person-in-Place_page-67F1/">PROJECT PAGE</a>]
+</div>
+</p>
+<br>
+<br>
+<br>
+
 <!--SEFD-->
 <p>
 <img src="images/main_model_gif.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
