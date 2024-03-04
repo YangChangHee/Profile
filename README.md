@@ -21,7 +21,7 @@ Furthermore, I served as a Teacher's Assistant for image processing practice at 
 
 <!--Person-In-Place-->
 <p>
-<img src="images/CVPR2024" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/CVPR2024.png" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing </font></b>
 <br>
@@ -98,7 +98,7 @@ Taehoon Kim*, ChanHee Kang*, JaeHyuk Park*, Daun Jeong*, <b>ChangHee Yang</b>*, 
 <br>
 
 ### Submitted
-I submitted a paper to CVPR 2024 as the first author and am waiting for the review.
+Not Yet.
 
 ### Project
 * Korean Agency for Technology and Standards, “Development of 3D Dynamic Human Surface Shape Measurement protocol,” (Jun. 2023 – Present)  
@@ -109,6 +109,8 @@ I submitted a paper to CVPR 2024 as the first author and am waiting for the revi
 
 * Ministry of Science and ICT, “AI-based multi-channel cybercrime information collection and profiling system,” (Jun. 2020 – Feb. 2022)  
 
+### Invited
+* MODUCON 2023 Poster presentation, "SEFD: Learning to Distill Complex Pose and Occlusion"
 
 
 ### Patent
