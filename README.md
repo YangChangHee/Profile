@@ -31,7 +31,7 @@ Furthermore, I served as a Teacher's Assistant for image processing practice at 
 <br>
 <b>Co-Work with Pusan National University</b>
 <br>
-[CVPR</a>] [<a href="https://github.com/YangChangHee/CVPR2024_Person-In-Place_RELEASE">CODE</a>] [<a href="https://anonymous.4open.science/w/Person-in-Place_page-67F1/">PROJECT PAGE</a>]
+[CVPR] [<a href="https://github.com/YangChangHee/CVPR2024_Person-In-Place_RELEASE">CODE</a>] [<a href="https://anonymous.4open.science/w/Person-in-Place_page-67F1/">PROJECT PAGE</a>]
 </div>
 </p>
 <br>
