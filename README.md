@@ -121,7 +121,7 @@ S-J. Kang, C. H. Yang, C. H. Kang, Image generation device using self-generated 
 
 
 <p align="middle">
-<img src="images/LGE_LOGO.png" width="100px" height="70px">
+<img src="images/LGE_LOGO.png" width="100px" height="40px">
 </p>
 <p align="center">
   <b>AI Research</b>, AI specialist, <b>LG Electronics` CTO Division</b>, seoul, Korea <br> (Feb. 2024 - present)
