@@ -14,8 +14,8 @@ My email: yangchanghee2251@gmail.com & qazw5741@naver.com
 <br>
 
 ### Who I am?  
-During my M. S degree, I collaborated with the Naver Cloud Video team, and our work was accepted at the main conference of ICCV 2023. Additionally, I participated in an AI grand challenge, where five research labs at Sogang University came together, and we were awarded the KETI director's prize. Furthermore, through collaboration with assistant professor from Pusan National Univerisy, our work got accepted at WACV 2024 and ICCV workshop 2023. 
-Furthermore, I served as a Teacher's Assistant for image processing practice at LG Display.
+During my M. S degree, I collaborated with the Naver Cloud Video team, and our work was accepted at the main conference of ICCV 2023. Additionally, I participated in an AI grand challenge, where five research labs at Sogang University came together, and we were awarded the KETI director's prize. Furthermore, through collaboration with assistant professor from Pusan National Univerisy, our work got accepted at CVPR 2024, WACV 2024 and ICCV workshop 2023. 
+Furthermore, I served as a Teacher's Assistant for image processing practice at LG Display. I am currently working as an AI specialist at LG Electronics' CTO division.
 
 ### Publications (Accepted)
 
@@ -120,7 +120,12 @@ S-J. Kang, C. H. Yang, C. H. Kang, Image generation device using self-generated 
 ### Experience
 
 
-
+<p align="middle">
+<img src="images/LGE_LOGO.png" width="100px" height="70px">
+</p>
+<p align="center">
+  <b>AI Research</b>, AI specialist, <b>LG Electronics` CTO Division</b>, seoul, Korea <br> (Feb. 2024 - present)
+</p>
 
 <p align="middle">
 <img src="images/naver_cloud.png" width="100px" height="70px">
