@@ -32,7 +32,6 @@ Furthermore, I served as a Teacher's Assistant for image processing practice at 
 <b>Co-Work with Pusan National University</b>
 <br>
 [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Person_in_Place_Generating_Associative_Skeleton-Guidance_Maps_for_Human-Object_Interaction_CVPR_2024_paper.pdf">CVPR] [<a href="https://github.com/YangChangHee/CVPR2024_Person-In-Place_RELEASE">CODE</a>] [<a href="https://anonymous.4open.science/w/Person-in-Place_page-67F1/">PROJECT PAGE</a>]
-  
 </div>
 </p>
 <br>
@@ -98,8 +97,10 @@ Taehoon Kim*, ChanHee Kang*, JaeHyuk Park*, Daun Jeong*, <b>ChangHee Yang</b>*, 
 <br>
 <br>
 
+
 ### Submitted
 Not Yet.
+
 
 ### Project
 * Korean Agency for Technology and Standards, “Development of 3D Dynamic Human Surface Shape Measurement protocol,” (Jun. 2023 – Present)  
