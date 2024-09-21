@@ -99,7 +99,7 @@ Taehoon Kim*, ChanHee Kang*, JaeHyuk Park*, Daun Jeong*, <b>ChangHee Yang</b>*, 
 
 
 ### Submitted
-Not Yet.
+I have submitted a paper as a co-author for WACV 2025.
 
 
 ### Project
