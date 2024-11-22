@@ -15,7 +15,7 @@ My email: yangchanghee2251@gmail.com & qazw5741@naver.com
 
 ### Who am I?  
 During my M. S degree, I collaborated with the Naver Cloud Video team, and our work was accepted at the main conference of ICCV 2023. Additionally, I participated in an AI grand challenge, where five research labs at Sogang University came together, and we were awarded the KETI director's prize. Furthermore, through collaboration with assistant professor from Pusan National Univerisy, our work got accepted at CVPR 2024, WACV 2024 and ICCV workshop 2023. 
-Furthermore, I served as a Teacher's Assistant for image processing practice at LG Display. I am currently working as an AI specialist at LG Electronics' CTO division.
+Furthermore, I served as a Teacher's Assistant for image processing practice at LG Display. I am currently working as an AI Researcher at LG Electronics' CTO division.
 
 ### Publications (Accepted)
 
