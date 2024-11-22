@@ -99,7 +99,7 @@ Taehoon Kim*, ChanHee Kang*, JaeHyuk Park*, Daun Jeong*, <b>ChangHee Yang</b>*, 
 
 
 ### Submitted
-I have submitted a paper as a co-author for WACV 2025.
+I submitted two papers to CVPR 2025. One as a co-author and the other as the first author.
 
 
 ### Project
