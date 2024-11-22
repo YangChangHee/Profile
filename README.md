@@ -163,5 +163,5 @@ S-J. Kang, C. H. Yang, C. H. Kang, Image generation device using self-generated 
 <img src="images/DKU_img.png" width="100px" height="100px">
 </p>
 <p align="center">
-  <b>B.S.</b>, Department of Electronic and Electrical Engineering, <b>Dankook University (DKU)</b>, Jukjeon, Korea <br> (Mar. 2015 - Feb. 2022)
+  <b>B.S.</b>, Department of Electronic and Electrical Engineering, <b>Dankook University (DKU)</b>, Jukjeon, Korea (Entrance Scholarship Recipient) <br> (Mar. 2015 - Feb. 2022)
 </p>
