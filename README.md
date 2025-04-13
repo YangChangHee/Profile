@@ -99,7 +99,7 @@ Taehoon Kim*, ChanHee Kang*, JaeHyuk Park*, Daun Jeong*, <b>ChangHee Yang</b>*, 
 
 
 ### Submitted
-I submitted two papers to CVPR 2025. One as a co-author and the other as the first author.
+I submitted one paper to ICCV 2025 as the first author, and another paper to TMM as a co-author.
 
 
 ### Project
