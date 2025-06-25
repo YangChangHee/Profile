@@ -31,7 +31,7 @@ Furthermore, I served as a Teacher's Assistant for image processing practice at 
 <br>
 <b>Project conducted at AI Lab, CTO Division, LG Electronics</b>
 <br>
-[<a href="https://arxiv.org/pdf/2503.13025">CVPR</a>] [CODE] [PROJECT PAGE]
+[<a href="https://arxiv.org/pdf/2503.13025">ICCV</a>] [CODE] [PROJECT PAGE]
 </div>
 </p>
 <br>
