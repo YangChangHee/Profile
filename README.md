@@ -19,6 +19,25 @@ Furthermore, I served as a Teacher's Assistant for image processing practice at 
 
 ### Publications (Accepted)
 
+<!--PoseSyn-->
+<p>
+<img src="images/posesyn.jpg" align="left" style="width:360px; height:150px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC">PoseSyn: Synthesizing Diverse 3D Pose Data from In-the-Wild 2D Data </font></b>
+<br>
+<b>ChangHee Yang</b>*, Hyeonseop Song*, Seokhun Choi*, Seungwoo Lee, Jaechul Kim and Hoseok Do
+<br>
+<b>ICCV 2025</b>
+<br>
+<b>Project conducted at AI Lab, CTO Division, LG Electronics</b>
+<br>
+[<a href="https://arxiv.org/pdf/2503.13025">CVPR</a>] [CODE] [PROJECT PAGE]
+</div>
+</p>
+<br>
+<br>
+<br>
+
 <!--Person-In-Place-->
 <p>
 <img src="images/CVPR2024.png" align="left" style="width:360px; height:150px; margin-right:10px;  vertical-align=middle;">
