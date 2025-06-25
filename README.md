@@ -114,6 +114,8 @@ I submitted one paper to ICCV 2025 as the first author, and another paper to TMM
 ### Invited
 * MODUCON 2023 Poster presentation, "SEFD: Learning to Distill Complex Pose and Occlusion"
 
+### Service
+* A Reviewer for computer vision and machine learning conference (ICCV 2025, NeuRIPS 2025)
 
 ### Patent
 S-J. Kang, C. H. Yang, Complex Pose Extraction Device, KR-Application No. : 10-2023-0111074  
